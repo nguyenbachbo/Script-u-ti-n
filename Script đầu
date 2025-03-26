@@ -3,10 +3,10 @@ getgenv().Config = {
 	Team = "Pirates"    --  "Marines"
 }
 
-local function setTeam(NguyễnBáchB2ộk11)
+local function setTeam(Nguyenbachbo2k11)
 	local args = {
 		"SetTeam",
-		NguyễnBáchBộ2k11
+		nguyenbachbo2k11
 	}
 	game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
 end
