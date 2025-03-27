@@ -1,7 +1,7 @@
 -- https://discord.gg/gwzxG3uQzP
 
 
-shared.LoaderTitle = "Đăng Ký Kênh ĐỊTMẸMÀY";
+shared.LoaderTitle = "ĐỊT MẸ MÀY";
 shared.LoaderKeyFrames = {
     [1] = {
         1,
