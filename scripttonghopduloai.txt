@@ -80,7 +80,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
   })
     
   AddButton(Tab1o, {
-     Name = "Redz Hub real",
+     Name = "SCRIPT CUA T",
     Callback = function()
 	  loadstring(game:HttpGet("https://raw.githubusercontent.com/nguyenbachbo/Script-u-ti-n/refs/heads/main/bo2406201.txt"))()
   end
