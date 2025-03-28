@@ -47,3 +47,18 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
 	  loadstring(game:HttpGet("https://raw.githubusercontent.com/ShimeKano/redz/refs/heads/main/Source.luau"))()
   end
   })
+
+AddButton(Tab1o, {
+     Name = "ASTRAL HUB",
+    Callback = function()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/Overgustx2/Main/refs/heads/main/BloxFruits_25.html"))()
+  end
+  })
+
+AddButton(Tab1o, {
+     Name = "SCRIPT CUA T",
+    Callback = function()
+	  https://raw.githubusercontent.com/nguyenbachbo/Script-u-ti-n/refs/heads/main/bo2406201.txt
+  end
+  })
+
